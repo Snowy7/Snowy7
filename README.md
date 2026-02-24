@@ -2,11 +2,11 @@
 
 > Random guy, building random things.
 
-I build AI tools, web apps, and games — whatever sounds fun. Mostly TypeScript, sometimes C#, occasionally Python.
+I build AI tools, web apps, and games, whatever sounds fun. Mostly TypeScript, sometimes C#, occasionally Python.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Link |
 |---------|-------------|:----:|
@@ -20,7 +20,7 @@ I build AI tools, web apps, and games — whatever sounds fun. Mostly TypeScript
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -35,7 +35,7 @@ I build AI tools, web apps, and games — whatever sounds fun. Mostly TypeScript
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Snowy7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
