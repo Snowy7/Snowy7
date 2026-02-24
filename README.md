@@ -39,10 +39,8 @@ Check out my stuff on [GitHub](https://github.com/Snowy7) or at [snowydev.xyz](h
 
 ### Stats
 
-<p>
-  <img src="https://raw.githubusercontent.com/Snowy7/Snowy7/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
-</p>
-<p>
-  <img src="https://raw.githubusercontent.com/Snowy7/Snowy7/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Snowy7&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</p>
+
+[![](https://raw.githubusercontent.com/Snowy7/Snowy7/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Snowy7/Snowy7/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Snowy7/Snowy7/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Snowy7/Snowy7/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Snowy7/Snowy7/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
