@@ -9,7 +9,7 @@ Check out my stuff on [GitHub](https://github.com/Snowy7) or at [snowydev.xyz](h
 ### What I'm building
 
 - **[sncode](https://github.com/Snowy7/sncode)** — Desktop AI coding agent. Open a project, chat with Claude or Codex, and let it code for you
-- **[sanad](https://www.asksanad.com)** — AI-powered medical triage PWA with offline X-ray analysis and voice notes
+- **[AskSanad](https://www.asksanad.com)** — AI-powered academic advisor and university matching platform for students
 - **[snist](https://snist.dev)** — SNIST platform
 - **[quran-app](https://quran.snowydev.xyz)** — Quran reading and listening app
 - **[usequote](https://tokenmeter-dashboard.vercel.app)** — Token usage metering dashboard
