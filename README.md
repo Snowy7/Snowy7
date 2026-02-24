@@ -38,8 +38,15 @@ I build AI tools, web apps, and games, whatever sounds fun. Mostly TypeScript, s
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Snowy7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snowy7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://raw.githubusercontent.com/Snowy7/Snowy7/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/Snowy7/Snowy7/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" height="170" />
+  <img src="https://raw.githubusercontent.com/Snowy7/Snowy7/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" height="170" />
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/Snowy7/Snowy7/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Snowy7&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
 ---
