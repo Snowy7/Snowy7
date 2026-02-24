@@ -2,7 +2,7 @@
 
 Random guy, building random things. I make AI tools, web apps, and games — whatever sounds fun.
 
-Check out my stuff on [GitHub](https://github.com/Snowy7) or at [snowydev.xyz](https://quran.snowydev.xyz)
+Check out my stuff on [GitHub](https://github.com/Snowy7) or at [snowydev.xyz](https://snowydev.xyz)
 
 ---
 
