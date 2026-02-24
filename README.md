@@ -10,7 +10,7 @@ Check out my stuff on [GitHub](https://github.com/Snowy7) or at [snowydev.xyz](h
 
 - **[sncode](https://github.com/Snowy7/sncode)** — Desktop AI coding agent. Open a project, chat with Claude or Codex, and let it code for you
 - **[AskSanad](https://www.asksanad.com)** — AI-powered academic advisor and university matching platform for students
-- **[snist](https://snist.dev)** — SNIST platform
+- **[snist](https://snist.dev)** — AI-powered Unity development assistant. Generate code, control scenes, and build games faster
 - **[quran-app](https://quran.snowydev.xyz)** — Quran reading and listening app
 - **[usequote](https://tokenmeter-dashboard.vercel.app)** — Token usage metering dashboard
 
