@@ -1,4 +1,4 @@
-# Hey, I'm Snowy 👋
+# Hey, I'm Islam 👋
 
 > Random guy, building random things.
 
