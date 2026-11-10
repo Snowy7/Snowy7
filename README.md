@@ -20,7 +20,7 @@ Check out my stuff on [GitHub](https://github.com/Snowy7) or at [snowydev.xyz](h
 
 ### Game dev
 
-- **[Limeless Studio](https://github.com/limeless-studio)** — Game dev studio, Unity multiplayer games
+- **Working on games** — Making a game engine to make games with :)
 
 ---
 
